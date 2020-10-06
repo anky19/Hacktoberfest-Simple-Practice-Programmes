@@ -1,4 +1,4 @@
-let number = 10
+let number = 100
 square(number)
 function square(number) {
     let result = number * number
